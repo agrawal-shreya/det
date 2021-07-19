@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-position: center;    
+}
+.heading_t{
+    background-color: rgb(29, 157, 226);
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+canvas{
+    border: 5px double violet;
+    box-shadow: 10px 10px 10px rgb(22, 21, 21);
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.btn_des{
+    width: 400px;
+    background-color: rgb(29, 157, 226);
+    color: black;
+    border: none;
+    border-radius: 150px;
+    padding: 5px;
+}
+.btn_home{
+    float: right;
+    background-color: rgb(29, 157, 226);
+    color: black;
+    margin-top: 5px;
+    border: none;
+    margin-right: 5px;
+}
